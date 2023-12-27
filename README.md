@@ -1,5 +1,6 @@
 
 # Resumo das Atividades
+Programas principais estão no pacote application e os métodos e chamadas estão no pacote entities
 
 ## Herança
 
